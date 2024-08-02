@@ -1,13 +1,18 @@
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Tom Brereton</h3>
-<p align="center">✨ Software Engineer & Architect ✨<p>
+<h3> Hey I'm Tom <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px> - I like to build things </h3>
+<p>✨ Software Engineer & Architect ✨<p>
 
-I'm an Australian who enjoys strumming the guitar, 
-Muay Thai, and has a weakness for bacon & egg rolls on 
-a Saturday morning.
+Things I'm building:
+- A custom Spotify discover weekly - https://soundsort.net
+- An Apple Watch first Weight Lifting App
+- A simple alternative to Facebook Events
 
-I also love building things and to scratch that itch,
-I tinker with [.NET](https://learn.microsoft.com/en-us/dotnet/), [Microsoft Azure](https://learn.microsoft.com/en-us/azure/architecture/) 
-and [React](https://reactjs.org) with a focus on System Design. If you're interested in this too, take a look at my website, [Pedlar](https://pedlar.io).
+Tools I like to use:
+- C# & .NET
+- Microsoft Azure
+- Golang
+- React
+- Htmx
+- AWS
 
 ---
 <h3 align="center"> :zap: GitHub Profile Stats </h3>

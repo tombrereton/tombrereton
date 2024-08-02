@@ -1,4 +1,4 @@
-<h1> Hey I'm Tom <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px> - I like to build things </h1>
+<h1> Hey I'm Tom 👋 I like to build things </h1>
 Software Engineer & Architect
 
 ### 🛠️ Things I'm building

@@ -4,7 +4,7 @@ Software Engineer & Architect
 ### 🛠️ Things I'm building
 - Make your own Discover Weekly - https://soundsort.net
 - An Apple Watch first Gym App
-- A simple alternative to Facebook Events
+- A friendly alternative to Facebook Events
 
 ### 🪛 Tools I like to use
 - C# & .NET

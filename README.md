@@ -20,8 +20,3 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tombrereton&show_icons=true" />
 </div>
 
-
-<h3 align="center"> :zap: Recent GitHub Activity </h3>
-<div align="center">
-  <a href="https://github.com/tombrereton/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tombrereton&custom_title=%20&theme=react-dark" /></a>
-</div>

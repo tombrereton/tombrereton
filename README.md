@@ -1,4 +1,4 @@
-<h1> Hey I'm Tom 👋 I like to build things </h1>
+# Hey I'm Tom, I like building things
 Software Engineer & Architect
 
 ### 🛠️ Things I'm building

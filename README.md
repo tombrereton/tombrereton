@@ -1,5 +1,5 @@
 # Hey, I'm Tom
-- 🏡 [tombrereton.dev](https://tombrereton.dev)
+Check out my home on the web 🏡 [tombrereton.dev](https://tombrereton.dev)
 
 #### 🛠️ Things I'm building
 - Make your own Discover Weekly - https://soundsort.net

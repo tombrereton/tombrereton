@@ -1,14 +1,14 @@
-# Hey I'm Tom, I like building things
-Software Engineer & Architect
+# Hey, I'm Tom
+- 🏡 [tombrereton.dev](https://tombrereton.dev)
 
-### 🛠️ Things I'm building
+#### 🛠️ Things I'm building
 - Make your own Discover Weekly - https://soundsort.net
 - An Apple Watch first Gym App
-- A friendly alternative to Facebook Events
 
-### 🪛 Tools I like to use
+#### 🪛 Tools I like to use
 - C# & .NET
 - Microsoft Azure
+- Svelte
 - Golang
 - React
 - Htmx
